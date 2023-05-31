@@ -1,0 +1,52 @@
+*{
+    padding:0;
+   margin:0;
+   
+   box-sizing:border-box;
+   }
+   body{
+   background:linear-gradient(#f3896fd5,#ff5f55d5);
+   height:100%;
+   direction:rtl;
+   }
+   .introd h1{
+    color:#994747;
+    font-size:50px;
+    letter-spacing:10px;
+    font-weight:400;
+    font-family: 'Mada', sans-serif;
+    text-align: center;
+padding: 50px 0;
+background: #ebce99;
+margin: 50px 300px;
+
+
+   }
+   .introd p{
+    text-indent:20px ;
+    text-align:justify;
+    line-height: 50px;
+    padding: 0 29px;
+    font-size:27px;
+    
+   }
+   nav{
+    width: 95%;
+    margin:auto;
+    
+    padding: 50px 20px;
+
+   }
+   nav ul li{
+    font-size:20px ;
+    line-height: 60px;
+    margin: 2px  0;
+    text-align: justify;
+    list-style-type:circle;
+}
+nav ul li h3{
+color: #552c03;
+
+
+
+}

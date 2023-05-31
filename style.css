@@ -1,0 +1,169 @@
+*{
+   padding:0;
+   margin:0;
+   font-family:'Cairo-bold';
+   box-sizing:border-box;
+   
+}
+body{
+background:linear-gradient(#d7866cd5,#ff5f55d5);
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+color: #fff;
+}
+.dark-mode {
+   background-color: rgb(139, 46, 46);
+  
+ }
+
+.count  a{
+   
+
+   padding:0;
+   margin:0;
+}
+
+
+ .container{
+    height:80%;
+    width:80%;
+    background:#eeaa80ca;
+    border-radius:20px;
+    direction:rtl;
+    
+    
+  }
+  
+  
+ 
+ nav{
+ display:flex;
+    justify-content:space-between;
+    align-items:center;
+    width: 95%;
+    margin:auto;
+    
+    padding:20px 0;
+ }
+ nav .logo{
+    color:#fff;
+    text-decoration:none;
+    font-size:25px;
+   
+font-family: 'Reem Kufi Fun', sans-serif;
+    letter-spacing:2px;
+    font-weight:300;
+   
+ }
+    
+    ul{
+      list-style-type:none;
+    }
+    #b1{
+     
+     
+    position: fixed; 
+    top: 5px;
+   right:40px;
+      border-radius:  66px 66px 66px 66px;
+      width: 44px;
+      outline: none;
+      background-color: black;
+      border: 1px solid silver;
+      transition: 1s;
+    }
+#b1:hover{
+background: #7c4233ca;
+box-shadow: 1px 1px 10px gray;
+
+
+}
+    
+ nav ul li{
+ 
+ display:inline-block;
+margin:0 6px;
+ }
+ nav ul li a{
+    color:#ffffff;
+    text-decoration:none;
+    font-size:18px;
+    font-weight:600px;
+    letter-spacing: 1px;
+    transition:0.4;
+    
+ }
+ nav ul li a:hover{ 
+ color:#574f50;
+    font-size:22px;
+    transition: 1s;
+    
+ }
+ .content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  width: 80%;
+  margin: auto;
+ }
+.content .text{
+  color: #fff;
+  width: 50%;
+
+}
+.content .text h2{
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 4px;
+}.content .text p{
+  font-size:18px ;
+  line-height: 25px;
+  margin: 7px 0;
+  letter-spacing: 1.5px;
+  
+}
+.content .image{
+width: 30%;
+}
+.content .image img{
+  width: 240px;
+}
+@media (min-width:950px) and (max-width:1150px)  {
+  .content .image img{
+     width: 230px;
+  }
+  .content .text h2{
+     font-size: 35px ;
+  }
+  .content .text p{
+     font-size: 15px;
+  }
+
+}
+
+
+  @media (max-width:950px)  {
+     .content , nav{
+        flex-direction: column;
+        justify-content: center;
+     }
+  nav{
+     margin:5px 0 ;
+  }
+.content .image img{
+  width:50px;
+}
+.content .text h2{
+  font-size: 15px;
+  
+}
+.content .text p{
+  font-size: 12px;
+  font-weight: 100;
+}.content .text, .content ,image{
+  width: 80%;
+}
+}

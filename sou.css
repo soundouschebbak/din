@@ -1,0 +1,141 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:'Cairo-bold';
+    box-sizing:border-box;
+ }
+ body{
+    background:linear-gradient(#ff5f55d5,#d6947bd5);
+    height:100%;
+    direction:rtl;
+}
+.container .text h1{
+text-align: center;
+padding: 20px 0;
+color: rgb(68, 41, 9);
+font-family: 'Reem Kufi Fun', sans-serif;
+background:#faac7fd5;
+}
+.container .text p{
+text-indent:20px ;
+text-align:justify;
+line-height: 50px;
+padding: 0 10px;
+font-size:25px; 
+
+}
+.container .text1 h3{
+    
+text-align:right;
+padding: 20px 20px;
+color: rgb(61, 36, 5);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+
+
+}
+.container .text1 p{
+    text-indent:20px ;
+text-align: justify;
+line-height: 40px;
+padding:0 29px;
+font-size:20px;
+    
+}
+.container .text2 h3{
+    text-align:right;
+padding: 20px 20px;
+color: rgb(61, 36, 5);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+
+
+}
+
+.container .text2 p{
+    text-indent:20px ;
+text-align: justify;
+line-height: 40px;
+padding:0 29px;
+font-size:20px;
+}
+.container .text3 h3{
+    text-align:right;
+padding: 20px 20px;
+color: rgb(61, 36, 5);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+
+
+}
+.container .text3 p{
+    text-indent:20px ;
+text-align: justify;
+line-height: 40px;
+padding:0 29px;
+font-size:20px;
+}.container .text4 h3{
+    text-align:right;
+padding: 20px 20px;
+color: rgb(61, 36, 5);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+
+
+}
+.container .text4 p{
+    text-indent:20px ;
+text-align: justify;
+line-height: 40px;
+padding:0 29px;
+font-size:20px;
+}.container .text5 h3{
+    text-align:right;
+    padding: 20px 20px;
+    color: rgb(61, 36, 5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    
+}
+.container .text5 p{
+    text-indent:30px ;
+text-align: justify;
+line-height:40px;
+padding:0 29px;
+font-size:20px; 
+}
+
+.container .text6 h3{
+    text-align:right;
+padding: 20px 20px;
+color: rgb(61, 36, 5);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+
+
+}
+.container .text6 p{
+    
+    text-indent:30px ;
+text-align: justify;
+line-height:40px;
+padding:0 29px;
+font-size:20px;
+}
+.container .text7 h3{
+    text-align:right;
+padding: 20px 20px;
+color: rgb(61, 36, 5);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+
+
+}
+.container .text7 p{
+    text-indent:30px ;
+text-align: justify;
+line-height: 40px;
+padding:0px 29px;
+font-size:20px ;
+margin-bottom: 20px;
+}

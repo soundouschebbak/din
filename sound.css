@@ -1,0 +1,127 @@
+*{
+    padding:0;
+   margin:0;
+   font-family:'Cairo-bold';
+   box-sizing:border-box;
+   }
+   body{
+   background:linear-gradient(#ff5f55d5,#fa966ed5);
+   height:100%;
+   direction:rtl;
+   }
+.st1 h1{
+
+    text-align: center;
+    padding: 20px 0;
+    color: rgb(102, 52, 11);
+    font-family: 'Reem Kufi Fun', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    background: #fa966ed5;
+
+}
+.st1 h2{
+text-align:center;
+padding: 20px 20px;
+color: rgb(104, 75, 40);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;}
+.st2 h2{
+    text-align:center;
+padding: 20px 20px;
+color: rgb(104, 75, 40);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+}
+.st3 h2{
+    text-align:center;
+padding: 20px 20px;
+color: rgb(104, 75, 40);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+}
+.st4 h2{
+    text-align:center;
+padding: 20px 20px;
+color: rgb(104, 75, 40);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+}
+.st5 h2{
+    text-align:center;
+padding: 20px 20px;
+color: rgb(104, 75, 40);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+}
+.st1 p{
+
+    text-indent:20px ;
+    text-align: justify;
+    line-height: 40px;
+    padding:0 29px;
+    font-size:20px;
+
+}
+.st2 p{
+    text-indent:20px ;
+    text-align: justify;
+    line-height: 40px;
+    padding:0 29px;
+    font-size:20px;
+}
+.st2 h3{
+    text-indent:20px ;
+    text-align: center;
+    line-height: 40px;
+    padding:0 29px;
+    font-size:20px;
+
+}
+.st3 p{
+
+    text-indent:20px ;
+    text-align: justify;
+    line-height: 40px;
+    padding:0 29px;
+    font-size:20px;
+    
+
+}
+.st4 p{
+
+    text-indent:20px ;
+    text-align: justify;
+    line-height: 40px;
+    padding:0 29px;
+    font-size:20px;
+}
+.st5 p{
+
+    text-indent:20px ;
+    text-align: justify;
+    line-height: 40px;
+    padding:0 29px;
+    font-size:20px;
+    margin-bottom: 20px;
+}
+.st1 .ch0{
+
+
+   
+    text-align: center;
+    line-height: 40px;
+    padding:0 29px;
+    font-size:25px;
+    margin: auto;
+
+}
+.st3 .ch1{
+    
+    text-align: center;
+    line-height: 40px;
+    padding:0 29px;
+    font-size:25px;
+    margin: auto;
+    
+}
